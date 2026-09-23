@@ -76,7 +76,7 @@
 | --- | --- |
 | 目标检测 | YOLO、Faster R-CNN；特征提取、检测头、IoU和NMS |
 | 图像分割 | FCN、U-Net、DeepLab；编码器、解码器与边界质量 |
-| 视觉Transformer | Attention、QKV、token、位置编码及ViT基础 |
+| Vision Transformer | Attention、QKV、token、位置编码及ViT基础 |
 | 预训练与评测 | 数据增强、迁移学习、Precision/Recall、F1、IoU、计算量与推理速度 |
 
 **阶段项目：目标检测与分割应用系统**
